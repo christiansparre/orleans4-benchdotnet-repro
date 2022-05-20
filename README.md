@@ -1,9 +1,11 @@
 # orleans4-benchdotnet-repro
- 
+
 Run this in the root of the repo
 ```
 dotnet run --project .\src\OrleansPlayground.Benchmarks\OrleansPlayground.Benchmarks.csproj -c Release
 ```
+
+The benchmark project is here [src/OrleansPlayground.Benchmarks](src/OrleansPlayground.Benchmarks)
 
 I get the following errors
 
